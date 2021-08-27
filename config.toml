@@ -24,6 +24,21 @@ paginate     = 10
   keywords = "homepage, blog"
   images = [""]
 
+[params.footer]
+    trademark = true
+    rss = true
+    copyright = true
+    author = true
+
+    topText = []
+    bottomText = [
+      "<a href=\"https://discord.minefra.me\">Discord</a>",
+      "<a href=\"https://matrix.minefra.me\">Matrix</a>",
+    ]
+
+  # Colors for favicons
+  #
+
 [taxonomies]
 #    category = "blog"
 #    tag      = "tags"
