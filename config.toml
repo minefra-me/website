@@ -25,9 +25,9 @@ paginate     = 10
   images = [""]
 
 [params.footer]
-    trademark = true
-    rss = true
-    copyright = true
+#    trademark = true
+#    rss = true
+#    copyright = true
     author = true
 
     topText = []
